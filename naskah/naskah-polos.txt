@@ -1,0 +1,142 @@
+[00:00] Es, kopi, dan mesin
+
+Genggam sebongkah es. Tanganmu terasa dingin, dan esnya perlahan mencair.
+Secangkir kopi panas di meja, lama-lama menjadi hangat, lalu dingin.
+Mesin mobil membakar bensin, tetapi sebagian besar energinya justru terbuang sebagai panas.
+Semuanya diatur oleh satu aturan yang tidak pernah dilanggar:
+panas selalu mengalir dari yang panas ke yang dingin.
+Di balik aturan itu ada triliunan molekul yang bergerak acak, dan di situlah termofisika bertemu kimia.
+
+[00:45] Peta video
+
+Video ini membahas termofisika dalam tiga bagian.
+Bagian pertama, konsep: suhu, kalor, perubahan wujud, perpindahan kalor, dan hukum-hukum termodinamika.
+Bagian kedua, termofisika di dunia kimia: teori kinetik gas, sebaran kecepatan molekul, faktor Boltzmann, dan entropi mikroskopis.
+Bagian ketiga, penerapan: termos, kulkas, dan kalorimeter bom.
+
+[01:17] Bab 01 — Suhu: gerak acak molekul
+
+Apa sebenarnya suhu? Di tingkat molekul, suhu adalah ukuran energi kinetik rata-rata gerak acak partikel.
+Makin panas sebuah benda, makin cepat molekul-molekulnya bergetar dan berlarian.
+Dalam fisika dan kimia, suhu diukur dalam kelvin: kelvin sama dengan derajat Celsius ditambah dua ratus tujuh puluh tiga koma satu lima.
+Nol kelvin adalah nol mutlak, suhu terendah yang mungkin, ketika gerak termal mencapai batas paling kecil.
+Bila dua benda bersentuhan cukup lama, suhunya menjadi sama. Inilah kesetimbangan termal, dasar cara kerja termometer.
+
+[02:02] Bab 02 — Kalor dan kalor jenis
+
+Kalor adalah energi yang berpindah karena perbedaan suhu. Kalor bukan sesuatu yang disimpan benda, melainkan energi yang sedang mengalir.
+Kalor yang dibutuhkan untuk menaikkan suhu: Q sama dengan m c delta T.
+c adalah kalor jenis, seberapa banyak energi yang dibutuhkan satu kilogram zat untuk naik satu derajat.
+Air punya kalor jenis sangat besar, sekitar empat ribu dua ratus joule per kilogram per kelvin. Besi hanya sekitar empat ratus lima puluh.
+Memanaskan satu kilogram air sepuluh derajat butuh sekitar empat puluh dua kilojoule, kira-kira sembilan kali lebih banyak daripada besi.
+Itulah sebabnya laut menyimpan panas dan meredam perubahan suhu di bumi.
+
+[02:54] Bab 03 — Perubahan wujud dan kalor laten
+
+Panaskan es yang suhunya di bawah nol. Suhunya naik, lalu tiba-tiba berhenti di nol derajat, padahal pemanas terus menyala.
+Energinya tidak hilang. Energi itu dipakai untuk memutus ikatan antarmolekul es, mengubah padat menjadi cair.
+Energi ini disebut kalor laten. Untuk mencairkan satu kilogram es dibutuhkan sekitar tiga ratus tiga puluh empat kilojoule.
+Jumlah itu cukup untuk memanaskan satu kilogram air hampir delapan puluh derajat.
+Menguapkan air jauh lebih mahal: sekitar dua ribu dua ratus enam puluh kilojoule per kilogram, karena molekul harus dipisahkan sepenuhnya.
+
+[03:41] Bab 04 — Konduksi, konveksi, dan radiasi
+
+Kalor berpindah dengan tiga cara.
+Konduksi: molekul yang bergetar kuat menabrak tetangganya, meneruskan energi tanpa ikut berpindah. Logam penghantar yang baik, kayu dan udara penghantar yang buruk.
+Konveksi: fluida yang panas memuai, menjadi lebih ringan, lalu naik membawa energinya, seperti air yang mendidih di panci.
+Radiasi: setiap benda memancarkan gelombang elektromagnetik. Tidak perlu medium, sehingga panas matahari bisa sampai ke bumi melewati ruang hampa.
+Daya pancar radiasi sebanding dengan suhu mutlak pangkat empat. Suhu dinaikkan dua kali, pancarannya enam belas kali.
+
+[04:27] Bab 05 — Hukum pertama termodinamika
+
+Sekarang ambil gas di dalam silinder berpiston.
+Bila kita beri kalor Q, energi itu bisa menaikkan energi dalam gas, atau dipakai gas untuk mendorong piston, yaitu melakukan usaha W.
+Hukum pertama termodinamika: delta U sama dengan Q dikurangi W.
+Ini tidak lain adalah hukum kekekalan energi, ditulis untuk kalor dan usaha.
+Pada tekanan tetap, usaha gas sama dengan tekanan kali perubahan volume: p delta V.
+
+[05:03] Bab 06 — Proses-proses gas
+
+Keadaan gas bisa digambar pada diagram tekanan terhadap volume.
+Pada proses isobarik, tekanannya tetap. Pada proses isokhorik, volumenya tetap, sehingga gas tidak melakukan usaha.
+Pada proses isotermal, suhunya tetap. Kalor yang masuk seluruhnya diubah menjadi usaha.
+Pada proses adiabatik, tidak ada kalor yang keluar-masuk. Gas yang ditekan cepat menjadi panas, seperti pompa sepeda yang menghangat.
+Luas daerah di bawah kurva pada diagram itu sama dengan usaha yang dilakukan gas.
+
+[05:44] Bab 07 — Hukum kedua: arah aliran panas
+
+Hukum pertama mengatakan energi kekal. Tetapi ia tidak mengatakan ke mana energi mengalir.
+Hukum kedua termodinamika: kalor mengalir dengan sendirinya dari benda panas ke benda dingin, tidak pernah sebaliknya.
+Mesin kalor mengambil kalor dari sumber panas, mengubah sebagian menjadi usaha, dan membuang sisanya ke lingkungan yang dingin.
+Efisiensi terbaik yang mungkin, efisiensi Carnot, sama dengan satu dikurangi T dingin per T panas.
+Mesin yang bekerja antara enam ratus kelvin dan tiga ratus kelvin paling banter hanya lima puluh persen efisien. Mesin nyata jauh di bawahnya.
+
+[06:29] Bab 08 — Entropi
+
+Untuk mengukur arah itu, fisikawan memakai besaran baru: entropi.
+Bila kalor Q masuk ke benda bersuhu T, entropinya bertambah Q per T.
+Kalor yang sama, masuk ke benda dingin, menambah entropi lebih banyak daripada saat keluar dari benda panas.
+Karena itu aliran panas dari panas ke dingin selalu menaikkan entropi total. Inilah bentuk lain hukum kedua: entropi alam semesta tidak pernah berkurang.
+
+[07:03] Bab 09 — Teori kinetik gas
+
+Sekarang lihat gas sebagai triliunan molekul yang bertumbukan.
+Tekanan berasal dari tumbukan molekul dengan dinding, dan suhu menentukan seberapa keras tumbukannya.
+Dari situ lahir persamaan gas ideal, p V sama dengan N k T, dengan k tetapan Boltzmann.
+Energi kinetik rata-rata satu molekul ternyata hanya bergantung pada suhu: tiga per dua k T.
+Molekul nitrogen di udara kamar melesat dengan kecepatan akar rata-rata kuadrat sekitar lima ratus tujuh belas meter per detik, lebih cepat dari pesawat jet.
+
+[07:44] Bab 10 — Sebaran kecepatan molekul
+
+Tetapi tidak semua molekul secepat itu. Ada yang lambat, ada yang sangat cepat.
+Sebaran kecepatannya mengikuti kurva Maxwell–Boltzmann: naik dari nol, memuncak, lalu turun dengan ekor panjang.
+Bila suhu naik, puncaknya bergeser ke kanan dan kurvanya melebar. Ekor molekul yang sangat cepat menebal.
+Ekor inilah yang penting dalam kimia: hanya molekul di ekor yang punya cukup energi untuk melewati energi aktivasi dan bereaksi.
+
+[08:19] Bab 11 — Faktor Boltzmann
+
+Ada satu rumus yang menghubungkan suhu dengan tingkat-tingkat energi kuantum: faktor Boltzmann.
+Peluang sebuah molekul berada di tingkat energi yang lebih tinggi delta E sebanding dengan e pangkat minus delta E per k T.
+Pada suhu kamar, k T sekitar nol koma nol dua enam elektronvolt, atau dua koma lima kilojoule per mol.
+Ingat getaran hidrogen klorida: anak tangganya sekitar empat belas kali k T, jadi hanya sekitar satu dari sejuta molekul yang tereksitasi.
+Sebaliknya, tingkat rotasi molekul sangat rapat, sehingga banyak tingkat rotasi terisi pada suhu kamar.
+Faktor Boltzmann inilah jembatan antara termodinamika dan kimia kuantum.
+
+[09:09] Bab 12 — Entropi dan susunan mikroskopis
+
+Apa arti entropi di tingkat molekul? Ludwig Boltzmann menjawabnya: S sama dengan k log W.
+W adalah banyaknya cara molekul dapat disusun yang tampak sama dari luar.
+Buka sekat di antara gas dan ruang hampa. Molekul menyebar memenuhi kedua ruang, karena susunan menyebar jauh lebih banyak jumlahnya daripada susunan berkumpul.
+Peluang semua molekul kembali berkumpul di satu sisi begitu kecil sehingga praktis tidak pernah terjadi. Itulah asal arah waktu.
+Dalam kimia, perubahan entropi bersama perubahan entalpi menentukan apakah reaksi dapat berlangsung, lewat energi bebas Gibbs.
+
+[09:55] Bab 13 — Termos
+
+Termos menahan ketiga cara perpindahan kalor sekaligus.
+Dindingnya ganda dengan ruang hampa di antaranya, sehingga konduksi dan konveksi hampir terhenti.
+Permukaannya dilapisi perak mengilap yang memantulkan radiasi kembali ke dalam.
+Tutupnya yang rapat mencegah penguapan, yang membawa kalor laten dalam jumlah besar.
+
+[10:21] Bab 14 — Kulkas: memompa panas
+
+Kulkas tampak melanggar hukum kedua: ia membuat bagian dalam lebih dingin daripada ruangan.
+Tetapi kulkas tidak melanggar apa pun. Ia memakai usaha dari listrik untuk memompa kalor dari dalam ke luar.
+Cairan pendingin menguap di dalam kulkas, menyerap kalor laten, lalu dimampatkan kompresor dan melepaskan kalor itu di kisi-kisi belakang yang terasa hangat.
+Kalor yang dibuang ke ruangan selalu lebih besar daripada kalor yang diambil dari dalam, sehingga entropi total tetap bertambah.
+
+[11:00] Bab 15 — Kalorimeter bom
+
+Bagaimana kimiawan mengukur energi yang dilepaskan pembakaran?
+Sampel dibakar dalam wadah baja tertutup berisi oksigen, yang dicelupkan ke dalam air.
+Kalor pembakaran menaikkan suhu air, dan dari Q sama dengan m c delta T, energinya dapat dihitung.
+Satu gram glukosa melepaskan sekitar lima belas koma enam kilojoule. Dalam dua kilogram air, suhunya hanya naik hampir dua derajat.
+Dengan cara inilah kandungan energi makanan dan bahan bakar ditentukan.
+
+[11:37] Bab 16 — Rangkuman
+
+Mari rangkum.
+Suhu adalah ukuran gerak acak molekul. Kalor adalah energi yang mengalir karena perbedaan suhu, Q sama dengan m c delta T, ditambah kalor laten saat berubah wujud.
+Kalor berpindah lewat konduksi, konveksi, dan radiasi.
+Hukum pertama: energi kekal. Hukum kedua: panas mengalir dari panas ke dingin, dan entropi total tidak pernah berkurang.
+Di tingkat molekul, suhu menentukan sebaran kecepatan dan, lewat faktor Boltzmann, populasi tingkat-tingkat energi kuantum.
+Jadi, setiap kali melihat sesuatu memanas atau mendingin, tanyakan: dari mana kalornya, dan ke mana ia pergi?

@@ -1,0 +1,355 @@
+1
+00:00:01,600 --> 00:00:07,051
+Genggam sebongkah es. Tanganmu terasa dingin, dan esnya perlahan mencair.
+
+2
+00:00:07,051 --> 00:00:12,491
+Secangkir kopi panas di meja, lama-lama menjadi hangat, lalu dingin.
+
+3
+00:00:12,491 --> 00:00:19,528
+Mesin mobil membakar bensin, tetapi sebagian besar energinya justru terbuang sebagai panas.
+
+4
+00:00:19,528 --> 00:00:24,079
+Semuanya diatur oleh satu aturan yang tidak pernah dilanggar:
+
+5
+00:00:24,079 --> 00:00:28,187
+panas selalu mengalir dari yang panas ke yang dingin.
+
+6
+00:00:28,187 --> 00:00:36,545
+Di balik aturan itu ada triliunan molekul yang bergerak acak, dan di situlah termofisika bertemu kimia.
+
+7
+00:00:46,533 --> 00:00:51,007
+Video ini membahas termofisika dalam tiga bagian.
+
+8
+00:00:51,007 --> 00:00:59,631
+Bagian pertama, konsep: suhu, kalor, perubahan wujud, perpindahan kalor, dan hukum-hukum termodinamika.
+
+9
+00:00:59,631 --> 00:01:10,319
+Bagian kedua, termofisika di dunia kimia: teori kinetik gas, sebaran kecepatan molekul, faktor Boltzmann, dan entropi mikroskopis.
+
+10
+00:01:10,319 --> 00:01:16,001
+Bagian ketiga, penerapan: termos, kulkas, dan kalorimeter bom.
+
+11
+00:01:18,600 --> 00:01:27,258
+Apa sebenarnya suhu? Di tingkat molekul, suhu adalah ukuran energi kinetik rata-rata gerak acak partikel.
+
+12
+00:01:27,258 --> 00:01:33,442
+Makin panas sebuah benda, makin cepat molekul-molekulnya bergetar dan berlarian.
+
+13
+00:01:33,442 --> 00:01:43,907
+Dalam fisika dan kimia, suhu diukur dalam kelvin: kelvin sama dengan derajat Celsius ditambah dua ratus tujuh puluh tiga koma satu lima.
+
+14
+00:01:43,907 --> 00:01:51,233
+Nol kelvin adalah nol mutlak, suhu terendah yang mungkin, ketika gerak termal mencapai batas paling kecil.
+
+15
+00:01:51,233 --> 00:02:00,758
+Bila dua benda bersentuhan cukup lama, suhunya menjadi sama. Inilah kesetimbangan termal, dasar cara kerja termometer.
+
+16
+00:02:03,367 --> 00:02:13,535
+Kalor adalah energi yang berpindah karena perbedaan suhu. Kalor bukan sesuatu yang disimpan benda, melainkan energi yang sedang mengalir.
+
+17
+00:02:13,535 --> 00:02:19,083
+Kalor yang dibutuhkan untuk menaikkan suhu: Q sama dengan m c delta T.
+
+18
+00:02:19,083 --> 00:02:26,775
+c adalah kalor jenis, seberapa banyak energi yang dibutuhkan satu kilogram zat untuk naik satu derajat.
+
+19
+00:02:26,775 --> 00:02:36,943
+Air punya kalor jenis sangat besar, sekitar empat ribu dua ratus joule per kilogram per kelvin. Besi hanya sekitar empat ratus lima puluh.
+
+20
+00:02:36,943 --> 00:02:47,466
+Memanaskan satu kilogram air sepuluh derajat butuh sekitar empat puluh dua kilojoule, kira-kira sembilan kali lebih banyak daripada besi.
+
+21
+00:02:47,466 --> 00:02:52,983
+Itulah sebabnya laut menyimpan panas dan meredam perubahan suhu di bumi.
+
+22
+00:02:55,567 --> 00:03:04,803
+Panaskan es yang suhunya di bawah nol. Suhunya naik, lalu tiba-tiba berhenti di nol derajat, padahal pemanas terus menyala.
+
+23
+00:03:04,803 --> 00:03:13,461
+Energinya tidak hilang. Energi itu dipakai untuk memutus ikatan antarmolekul es, mengubah padat menjadi cair.
+
+24
+00:03:13,461 --> 00:03:23,052
+Energi ini disebut kalor laten. Untuk mencairkan satu kilogram es dibutuhkan sekitar tiga ratus tiga puluh empat kilojoule.
+
+25
+00:03:23,052 --> 00:03:29,035
+Jumlah itu cukup untuk memanaskan satu kilogram air hampir delapan puluh derajat.
+
+26
+00:03:29,035 --> 00:03:39,789
+Menguapkan air jauh lebih mahal: sekitar dua ribu dua ratus enam puluh kilojoule per kilogram, karena molekul harus dipisahkan sepenuhnya.
+
+27
+00:03:42,400 --> 00:03:45,175
+Kalor berpindah dengan tiga cara.
+
+28
+00:03:45,175 --> 00:03:56,807
+Konduksi: molekul yang bergetar kuat menabrak tetangganya, meneruskan energi tanpa ikut berpindah. Logam penghantar yang baik, kayu dan udara penghantar yang buruk.
+
+29
+00:03:56,807 --> 00:04:05,974
+Konveksi: fluida yang panas memuai, menjadi lebih ringan, lalu naik membawa energinya, seperti air yang mendidih di panci.
+
+30
+00:04:05,974 --> 00:04:17,594
+Radiasi: setiap benda memancarkan gelombang elektromagnetik. Tidak perlu medium, sehingga panas matahari bisa sampai ke bumi melewati ruang hampa.
+
+31
+00:04:17,594 --> 00:04:26,541
+Daya pancar radiasi sebanding dengan suhu mutlak pangkat empat. Suhu dinaikkan dua kali, pancarannya enam belas kali.
+
+32
+00:04:29,133 --> 00:04:32,664
+Sekarang ambil gas di dalam silinder berpiston.
+
+33
+00:04:32,664 --> 00:04:43,020
+Bila kita beri kalor Q, energi itu bisa menaikkan energi dalam gas, atau dipakai gas untuk mendorong piston, yaitu melakukan usaha W.
+
+34
+00:04:43,020 --> 00:04:48,568
+Hukum pertama termodinamika: delta U sama dengan Q dikurangi W.
+
+35
+00:04:48,568 --> 00:04:54,751
+Ini tidak lain adalah hukum kekekalan energi, ditulis untuk kalor dan usaha.
+
+36
+00:04:54,751 --> 00:05:01,921
+Pada tekanan tetap, usaha gas sama dengan tekanan kali perubahan volume: p delta V.
+
+37
+00:05:04,533 --> 00:05:09,762
+Keadaan gas bisa digambar pada diagram tekanan terhadap volume.
+
+38
+00:05:09,762 --> 00:05:19,197
+Pada proses isobarik, tekanannya tetap. Pada proses isokhorik, volumenya tetap, sehingga gas tidak melakukan usaha.
+
+39
+00:05:19,197 --> 00:05:26,347
+Pada proses isotermal, suhunya tetap. Kalor yang masuk seluruhnya diubah menjadi usaha.
+
+40
+00:05:26,347 --> 00:05:36,337
+Pada proses adiabatik, tidak ada kalor yang keluar-masuk. Gas yang ditekan cepat menjadi panas, seperti pompa sepeda yang menghangat.
+
+41
+00:05:36,337 --> 00:05:42,797
+Luas daerah di bawah kurva pada diagram itu sama dengan usaha yang dilakukan gas.
+
+42
+00:05:45,400 --> 00:05:52,915
+Hukum pertama mengatakan energi kekal. Tetapi ia tidak mengatakan ke mana energi mengalir.
+
+43
+00:05:52,915 --> 00:06:01,871
+Hukum kedua termodinamika: kalor mengalir dengan sendirinya dari benda panas ke benda dingin, tidak pernah sebaliknya.
+
+44
+00:06:01,871 --> 00:06:10,895
+Mesin kalor mengambil kalor dari sumber panas, mengubah sebagian menjadi usaha, dan membuang sisanya ke lingkungan yang dingin.
+
+45
+00:06:10,895 --> 00:06:18,411
+Efisiensi terbaik yang mungkin, efisiensi Carnot, sama dengan satu dikurangi T dingin per T panas.
+
+46
+00:06:18,411 --> 00:06:28,478
+Mesin yang bekerja antara enam ratus kelvin dan tiga ratus kelvin paling banter hanya lima puluh persen efisien. Mesin nyata jauh di bawahnya.
+
+47
+00:06:31,067 --> 00:06:36,815
+Untuk mengukur arah itu, fisikawan memakai besaran baru: entropi.
+
+48
+00:06:36,815 --> 00:06:42,243
+Bila kalor Q masuk ke benda bersuhu T, entropinya bertambah Q per T.
+
+49
+00:06:42,243 --> 00:06:50,324
+Kalor yang sama, masuk ke benda dingin, menambah entropi lebih banyak daripada saat keluar dari benda panas.
+
+50
+00:06:50,324 --> 00:07:02,033
+Karena itu aliran panas dari panas ke dingin selalu menaikkan entropi total. Inilah bentuk lain hukum kedua: entropi alam semesta tidak pernah berkurang.
+
+51
+00:07:04,633 --> 00:07:09,296
+Sekarang lihat gas sebagai triliunan molekul yang bertumbukan.
+
+52
+00:07:09,296 --> 00:07:16,799
+Tekanan berasal dari tumbukan molekul dengan dinding, dan suhu menentukan seberapa keras tumbukannya.
+
+53
+00:07:16,799 --> 00:07:23,748
+Dari situ lahir persamaan gas ideal, p V sama dengan N k T, dengan k tetapan Boltzmann.
+
+54
+00:07:23,748 --> 00:07:31,184
+Energi kinetik rata-rata satu molekul ternyata hanya bergantung pada suhu: tiga per dua k T.
+
+55
+00:07:31,184 --> 00:07:42,750
+Molekul nitrogen di udara kamar melesat dengan kecepatan akar rata-rata kuadrat sekitar lima ratus tujuh belas meter per detik, lebih cepat dari pesawat jet.
+
+56
+00:07:45,333 --> 00:07:51,916
+Tetapi tidak semua molekul secepat itu. Ada yang lambat, ada yang sangat cepat.
+
+57
+00:07:51,916 --> 00:07:59,940
+Sebaran kecepatannya mengikuti kurva Maxwell–Boltzmann: naik dari nol, memuncak, lalu turun dengan ekor panjang.
+
+58
+00:07:59,940 --> 00:08:07,655
+Bila suhu naik, puncaknya bergeser ke kanan dan kurvanya melebar. Ekor molekul yang sangat cepat menebal.
+
+59
+00:08:07,655 --> 00:08:17,643
+Ekor inilah yang penting dalam kimia: hanya molekul di ekor yang punya cukup energi untuk melewati energi aktivasi dan bereaksi.
+
+60
+00:08:20,233 --> 00:08:26,725
+Ada satu rumus yang menghubungkan suhu dengan tingkat-tingkat energi kuantum: faktor Boltzmann.
+
+61
+00:08:26,725 --> 00:08:35,350
+Peluang sebuah molekul berada di tingkat energi yang lebih tinggi delta E sebanding dengan e pangkat minus delta E per k T.
+
+62
+00:08:35,350 --> 00:08:43,619
+Pada suhu kamar, k T sekitar nol koma nol dua enam elektronvolt, atau dua koma lima kilojoule per mol.
+
+63
+00:08:43,619 --> 00:08:54,273
+Ingat getaran hidrogen klorida: anak tangganya sekitar empat belas kali k T, jadi hanya sekitar satu dari sejuta molekul yang tereksitasi.
+
+64
+00:08:54,273 --> 00:09:01,977
+Sebaliknya, tingkat rotasi molekul sangat rapat, sehingga banyak tingkat rotasi terisi pada suhu kamar.
+
+65
+00:09:01,977 --> 00:09:07,683
+Faktor Boltzmann inilah jembatan antara termodinamika dan kimia kuantum.
+
+66
+00:09:10,267 --> 00:09:17,158
+Apa arti entropi di tingkat molekul? Ludwig Boltzmann menjawabnya: S sama dengan k log W.
+
+67
+00:09:17,158 --> 00:09:22,764
+W adalah banyaknya cara molekul dapat disusun yang tampak sama dari luar.
+
+68
+00:09:22,764 --> 00:09:34,630
+Buka sekat di antara gas dan ruang hampa. Molekul menyebar memenuhi kedua ruang, karena susunan menyebar jauh lebih banyak jumlahnya daripada susunan berkumpul.
+
+69
+00:09:34,630 --> 00:09:44,409
+Peluang semua molekul kembali berkumpul di satu sisi begitu kecil sehingga praktis tidak pernah terjadi. Itulah asal arah waktu.
+
+70
+00:09:44,409 --> 00:09:54,100
+Dalam kimia, perubahan entropi bersama perubahan entalpi menentukan apakah reaksi dapat berlangsung, lewat energi bebas Gibbs.
+
+71
+00:09:56,700 --> 00:10:01,174
+Termos menahan ketiga cara perpindahan kalor sekaligus.
+
+72
+00:10:01,174 --> 00:10:07,923
+Dindingnya ganda dengan ruang hampa di antaranya, sehingga konduksi dan konveksi hampir terhenti.
+
+73
+00:10:07,923 --> 00:10:14,094
+Permukaannya dilapisi perak mengilap yang memantulkan radiasi kembali ke dalam.
+
+74
+00:10:14,094 --> 00:10:20,189
+Tutupnya yang rapat mencegah penguapan, yang membawa kalor laten dalam jumlah besar.
+
+75
+00:10:22,800 --> 00:10:30,046
+Kulkas tampak melanggar hukum kedua: ia membuat bagian dalam lebih dingin daripada ruangan.
+
+76
+00:10:30,046 --> 00:10:38,505
+Tetapi kulkas tidak melanggar apa pun. Ia memakai usaha dari listrik untuk memompa kalor dari dalam ke luar.
+
+77
+00:10:38,505 --> 00:10:49,416
+Cairan pendingin menguap di dalam kulkas, menyerap kalor laten, lalu dimampatkan kompresor dan melepaskan kalor itu di kisi-kisi belakang yang terasa hangat.
+
+78
+00:10:49,416 --> 00:10:58,718
+Kalor yang dibuang ke ruangan selalu lebih besar daripada kalor yang diambil dari dalam, sehingga entropi total tetap bertambah.
+
+79
+00:11:01,333 --> 00:11:06,373
+Bagaimana kimiawan mengukur energi yang dilepaskan pembakaran?
+
+80
+00:11:06,373 --> 00:11:12,745
+Sampel dibakar dalam wadah baja tertutup berisi oksigen, yang dicelupkan ke dalam air.
+
+81
+00:11:12,745 --> 00:11:20,260
+Kalor pembakaran menaikkan suhu air, dan dari Q sama dengan m c delta T, energinya dapat dihitung.
+
+82
+00:11:20,260 --> 00:11:30,428
+Satu gram glukosa melepaskan sekitar lima belas koma enam kilojoule. Dalam dua kilogram air, suhunya hanya naik hampir dua derajat.
+
+83
+00:11:30,428 --> 00:11:35,945
+Dengan cara inilah kandungan energi makanan dan bahan bakar ditentukan.
+
+84
+00:11:38,333 --> 00:11:39,588
+Mari rangkum.
+
+85
+00:11:39,588 --> 00:11:52,409
+Suhu adalah ukuran gerak acak molekul. Kalor adalah energi yang mengalir karena perbedaan suhu, Q sama dengan m c delta T, ditambah kalor laten saat berubah wujud.
+
+86
+00:11:52,409 --> 00:11:56,905
+Kalor berpindah lewat konduksi, konveksi, dan radiasi.
+
+87
+00:11:56,905 --> 00:12:06,392
+Hukum pertama: energi kekal. Hukum kedua: panas mengalir dari panas ke dingin, dan entropi total tidak pernah berkurang.
+
+88
+00:12:06,392 --> 00:12:15,239
+Di tingkat molekul, suhu menentukan sebaran kecepatan dan, lewat faktor Boltzmann, populasi tingkat-tingkat energi kuantum.
+
+89
+00:12:15,239 --> 00:12:24,507
+Jadi, setiap kali melihat sesuatu memanas atau mendingin, tanyakan: dari mana kalornya, dan ke mana ia pergi?
